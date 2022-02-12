@@ -1,6 +1,6 @@
-package strategypattern.IStrategyImpl;
+package strategy.IStrategyImpl;
 
-import strategypattern.IStrategy;
+import strategy.IStrategy;
 
 /**
  * @author jinhuan3

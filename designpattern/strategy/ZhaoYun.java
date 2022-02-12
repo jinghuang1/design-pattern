@@ -1,8 +1,8 @@
-package strategypattern;
+package strategy;
 
-import strategypattern.IStrategyImpl.BackDoor;
-import strategypattern.IStrategyImpl.BlockEnemy;
-import strategypattern.IStrategyImpl.GivenGreenLight;
+import strategy.IStrategyImpl.BackDoor;
+import strategy.IStrategyImpl.BlockEnemy;
+import strategy.IStrategyImpl.GivenGreenLight;
 
 /**
  * @author jinhuan3

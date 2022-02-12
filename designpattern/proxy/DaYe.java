@@ -1,4 +1,4 @@
-package proxypattern;
+package proxy;
 
 /**
  * @author jinhuan3

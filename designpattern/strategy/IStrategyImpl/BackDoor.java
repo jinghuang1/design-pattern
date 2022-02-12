@@ -1,7 +1,6 @@
-package strategypattern.IStrategyImpl;
+package strategy.IStrategyImpl;
 
-import java.util.logging.Logger;
-import strategypattern.IStrategy;
+import strategy.IStrategy;
 
 /**
  * @author jinhuan3

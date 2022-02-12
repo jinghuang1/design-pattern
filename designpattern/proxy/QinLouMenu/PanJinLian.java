@@ -1,7 +1,7 @@
-package proxypattern.QinLouMenu;
+package proxy.QinLouMenu;
 
-import proxypattern.DaYe;
-import proxypattern.QinLouNvZi;
+import proxy.DaYe;
+import proxy.QinLouNvZi;
 
 /**
  * @author jinhuan3

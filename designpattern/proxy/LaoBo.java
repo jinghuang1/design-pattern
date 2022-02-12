@@ -1,6 +1,6 @@
-package proxypattern;
+package proxy;
 
-import proxypattern.QinLouMenu.PanJinLian;
+import proxy.QinLouMenu.PanJinLian;
 
 /**
  * @author jinhuan3
