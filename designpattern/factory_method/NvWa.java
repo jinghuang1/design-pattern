@@ -29,7 +29,7 @@ public class NvWa {
     //女娲累了，随机造人
     for (int i = 0; i < 1000; i++){
       System.out.println("----------随机造人开始------------");
-      Human human = HumanFactory.create();
+      Human human = HumanFactory.createHuman(Human.class);
       human.laugh();
       human.cry();
       human.cry();
